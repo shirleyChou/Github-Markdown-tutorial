@@ -8,6 +8,17 @@
 * [标题](#title)
 * [横线](#line)
 * [文本](#text)
+    * 普通文本
+    * 关于换行
+    * 单行文本
+    * 多行文本
+    * 文本高亮
+    * 删除线
+    * 斜体
+    * 粗体
+* [链接](#link)
+    * 让超链接显示文字
+    * 锚点
 
 
 <a name="title"/>
@@ -34,7 +45,7 @@
 ___
 <br>
 
-##<a name="text"/>显示文本
+##<a name="text"/>文本
 ### 普通文本
 等号/减号与文字间空一行，则显示普通文本/直接输入的文本就是普通文本
 
@@ -69,13 +80,16 @@ _斜体2_
 ### 粗体
 **粗体1**<br>
 __粗体2__
+<br>
 
-
-
-## 给超链接显示文字
-[GitHub上README.md教程](http://blog.csdn.net/kaitiren/article/details/38513715 "悬停显示")
+##<a name="link"/>链接
+### 让超链接显示文字
+[GitHub上README.md教程](http://blog.csdn.net/guodongxiaren/article/details/23690801 "Markdown教程")
 [GitHub test](https://github.com/guodongxiaren/README) 
 
+###锚点
+[回到目录](#index)
+[回到标题](#title)
 # 插入符号
 ## 圆点
 * 这是一个圆点符
