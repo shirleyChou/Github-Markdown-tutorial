@@ -216,7 +216,6 @@ Content Cell  | Content Cell
 <br>
 
 ##<a name="emotion"/>表情
-根据http://www.emoji-cheat-sheet.com/  
-提供的符号码可以输出不同的emoji表情，比如说：  
+根据http://www.emoji-cheat-sheet.com/<br>提供的符号码可以输出不同的emoji表情，比如说：  
 `:wink:`:wink:  
-`smile` :snile:  
+`smile` :smile:  
