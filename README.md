@@ -30,6 +30,7 @@
    * 给图片加入超链接
 * [代码高亮](#code)
 * [表格](#table)
+* [表情](#emotion)
 
 
 <a name="title"/>
@@ -178,3 +179,43 @@ __粗体2__
 ```Java
 public static void main(String[]args){} //Java
 ```
+<br>
+<br>
+
+##<a name="table"/>表格
+表头1  | 表头2
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+| 表头1  | 表头2|
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| 名字 | 描述          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
+
+表格中也可以使用普通文本的删除线，斜体等效果
+
+| 名字 | 描述          |
+| ------------- | ----------- |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
+
+表格可以指定对齐方式
+
+| 左对齐 | 居中  | 右对齐 |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+<br>
+<br>
+
+<a name="emotion"/>表情
+根据http://www.emoji-cheat-sheet.com/提供的符号码可以输出不同的emoji表情，比如说：
+`:wink:`:wink:
+`smile` :snile:
