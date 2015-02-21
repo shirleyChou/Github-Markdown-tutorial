@@ -56,8 +56,21 @@ ___
     行尾加两个Tab       
     就是这样        
 
-## 文本高亮
+### 文本高亮
 `Thanks!` Please `call` me!
+
+### 删除线
+~~这就是删除线~~
+
+### 斜体
+*斜体1*<br>
+_斜体2_
+
+### 粗体
+**粗体1**<br>
+__粗体2__
+
+
 
 ## 给超链接显示文字
 [GitHub上README.md教程](http://blog.csdn.net/kaitiren/article/details/38513715 "悬停显示")
