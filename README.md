@@ -1,4 +1,5 @@
-该文档用来记录和测试GitHub上的各种Markdown语法。
+本文档用来记录和测试GitHub上的各种Markdown语法。
+参考资料：http://blog.csdn.net/guodongxiaren/article/details/23690801
 ***
 ###                    Author:Shirley
 
@@ -218,4 +219,4 @@ Content Cell  | Content Cell
 ##<a name="emotion"/>表情
 根据http://www.emoji-cheat-sheet.com/<br>提供的符号码可以输出不同的emoji表情，比如说：  
 `:wink:`:wink:  
-`smile` :smile:  
+`:smile:` :smile:  
