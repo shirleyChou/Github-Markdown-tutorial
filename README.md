@@ -16,9 +16,15 @@
     * 删除线
     * 斜体
     * 粗体
+* [缩进](#Tab)
+* [列表](#List)
+   * 圆点列表
+   * 圆点的层次结构列表
+   * 数字列表
 * [链接](#link)
     * 让超链接显示文字
     * 锚点
+* [图片](#pict)
 
 
 <a name="title"/>
@@ -85,28 +91,52 @@ _斜体2_
 __粗体2__
 <br>
 
+##<a name="Tab"/>缩进
+>Markdown 是一种轻量级的标记语言，由John Gruber和AaronSwartz创建，最初是用来定义一种将文本转换成html文件的工具markdown，项目主页见：Markdown。它是开源项目，并以BSD-style许可证的许可方式以插件形式或内容管理系统形式发布。 本文就是用Markdown书写的，可能在blog里面不是很好看。将其复制到我推荐的Markdown工具里面，就可以看到效果了。
+>数据结构  
+>>>二叉树  
+>>>>>满二叉树
+<br>
+
+##<a name="sym"/>列表
+### 圆点列表
+* 这是一个圆点符
+* 这也是一个圆点符
+
+### 圆点的层次结构列表
+* 一级结构
+  * 一个Tab二级结构
+    * 两个Tab三级结构
+
+### 数字列表
+#### 一般效果  
+面向对象的三个基本特征：  
+1. 封装  
+2. 继承  
+3. 多态  
+
+#### 自动排序
+>在第一行指定`1.`，剩下用`*`或者继续用`1.`表示
+<br>
+
 ##<a name="link"/>链接
 ### 让超链接显示文字
 [GitHub上README.md教程](http://blog.csdn.net/guodongxiaren/article/details/23690801 "Markdown教程")  
 [GitHub test](https://github.com/guodongxiaren/README) 
 
 ###锚点
-[回到目录](#index)
+[回到目录](#index)  
 [回到标题](#title)
+
+
+
 # 插入符号
 ## 圆点
-* 这是一个圆点符
-* 这也是一个圆点符
 
-* 一级结构
-  * 一个Tab二级结构
-    * 两个Tab三级结构
 
-## 缩进
->Markdown 是一种轻量级的标记语言，由John Gruber和AaronSwartz创建，最初是用来定义一种将文本转换成html文件的工具markdown，项目主页见：Markdown。它是开源项目，并以BSD-style许可证的许可方式以插件形式或内容管理系统形式发布。 本文就是用Markdown书写的，可能在blog里面不是很好看。将其复制到我推荐的Markdown工具里面，就可以看到效果了。
->数据结构  
->>>二叉树  
->>>>>满二叉树
+
+
+
 
 # 插入图片
 ## 来源于网络的图片
