@@ -50,6 +50,7 @@
 ***
 ___
 <br>
+<br>
 
 ##<a name="text"/>文本
 ### 普通文本
@@ -90,12 +91,14 @@ _斜体2_
 **粗体1**<br>
 __粗体2__
 <br>
+<br>
 
 ##<a name="Tab"/>缩进
 >Markdown 是一种轻量级的标记语言，由John Gruber和AaronSwartz创建，最初是用来定义一种将文本转换成html文件的工具markdown，项目主页见：Markdown。它是开源项目，并以BSD-style许可证的许可方式以插件形式或内容管理系统形式发布。 本文就是用Markdown书写的，可能在blog里面不是很好看。将其复制到我推荐的Markdown工具里面，就可以看到效果了。
 >数据结构  
 >>>二叉树  
 >>>>>满二叉树
+<br>
 <br>
 
 ##<a name="sym"/>列表
