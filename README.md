@@ -106,7 +106,7 @@ __粗体2__
 <br>
 <br>
 
-##<a name="sym"/>列表
+##<a name="List"/>列表
 ### 圆点列表
 * 这是一个圆点符
 * 这也是一个圆点符
@@ -158,7 +158,7 @@ __粗体2__
 <br>
 <br>
 
-##<a name=""/>图片
+##<a name="pict"/>图片
 ### 来源于网络的图片
 ![](http://www.baidu.com/img/bdlogo.gif)  
 ![baidu](http://www.baidu.com/img/bdlogo.gif) 
