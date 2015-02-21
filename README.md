@@ -21,10 +21,15 @@
    * 圆点列表
    * 圆点的层次结构列表
    * 数字列表
+   * 复选框列表
 * [链接](#link)
     * 让超链接显示文字
     * 锚点
 * [图片](#pict)
+   * 来源于网络的图片
+   * 给图片加入超链接
+* [代码高亮](#code)
+* [表格](#table)
 
 
 <a name="title"/>
@@ -124,14 +129,21 @@ __粗体2__
 
 面向对象的七大原则：  
 1. 开闭原则
-1. 里氏转换原则
+* 里氏转换原则
 * 依赖倒转原则
 * 接口隔离原则
 * 组合/聚合复用原则
 * “迪米特”法则
 * 单一直则原则
 
-### 
+### 复选框列表
+- [x] C
+- [x] C++
+- [x] Java
+- [x] Qt
+- [x] Android
+- [ ] C#
+- [ ] .NET
 <br>
 <br>
 
@@ -146,19 +158,20 @@ __粗体2__
 <br>
 <br>
 
-
-# 插入图片
-## 来源于网络的图片
+##<a name=""/>图片
+### 来源于网络的图片
 ![](http://www.baidu.com/img/bdlogo.gif)  
 ![baidu](http://www.baidu.com/img/bdlogo.gif) 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
 [baidu](http://www.baidu.com/img/bdlogo.gif)
 
-## 给图片加入超链接
+### 给图片加入超链接
 [![baidu]](http://baidu.com)  
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
+<br>
+<br>
 
-## 插入代码片段
+##<a name="code"/>代码高亮
 ```Python
 [str(char) for char in int] //Python
 ```
