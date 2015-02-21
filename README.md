@@ -84,7 +84,7 @@ __粗体2__
 
 ##<a name="link"/>链接
 ### 让超链接显示文字
-[GitHub上README.md教程](http://blog.csdn.net/guodongxiaren/article/details/23690801 "Markdown教程")
+[GitHub上README.md教程](http://blog.csdn.net/guodongxiaren/article/details/23690801 "Markdown教程")  
 [GitHub test](https://github.com/guodongxiaren/README) 
 
 ###锚点
