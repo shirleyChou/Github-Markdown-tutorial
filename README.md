@@ -7,6 +7,7 @@
 ## <a name="index"/>目录
 * [标题](#title)
 * [横线](#line)
+* [文本](#text)
 
 <a name="title"/>
 #一级标题  
