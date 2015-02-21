@@ -1,6 +1,6 @@
-本文档用来记录和测试GitHub上的各种Markdown语法。  
-参考资料：http://blog.csdn.net/guodongxiaren/article/details/23690801  
+本文档用来记录和测试GitHub上的各种Markdown语法。 
 Written by : Shirley
+参考资料：http://blog.csdn.net/guodongxiaren/article/details/23690801  
 ***************
 
 ## <a name="index"/>目录
